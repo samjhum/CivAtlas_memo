@@ -1,9 +1,11 @@
 ---  
-tags: [RealEstate, Rates, Credit]  
-title : [RealEstate] Lock-in Effect
-date : 2026-04-27
-
----  
+title: "[RealEstate] Lock-in Effect"  
+tags:  
+- RealEstate  
+- Rates  
+- Credit  
+date: "2026-04-27"  
+---
 # 2026-04-27 (RealEstate) Lock-in Effect
 # Theory
 ## Vacancy Rate→NOI→DSCR→Financial Sector Risk
