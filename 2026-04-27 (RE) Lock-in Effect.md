@@ -1,4 +1,9 @@
+---  
+tags: [RealEstate, Rates, Credit]  
+title : Lock-in Effect
+date : 2026-04-27
 
+---  
 # Theory
 ## Vacancy Rate→NOI→DSCR→Financial Sector Risk
 #### NOI(Net Operating Income)
