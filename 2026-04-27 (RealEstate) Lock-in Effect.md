@@ -6,7 +6,6 @@ tags:
 - Credit  
 date: "2026-04-27"  
 ---
-
 # 2026-04-27 (RealEstate) Lock-in Effect
 # Theory
 ## Vacancy Rate→NOI→DSCR→Financial Sector Risk
