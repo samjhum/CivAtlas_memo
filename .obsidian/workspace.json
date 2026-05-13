@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4082db5afcbbf2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Issue Interpretation/2026-04-27 (RealEstate) Lock-in Effect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-27 (RealEstate) Lock-in Effect"
-            }
-          },
-          {
             "id": "8fd55da737fca339",
             "type": "leaf",
             "state": {
@@ -48,9 +34,37 @@
               "icon": "lucide-file",
               "title": "2026-05-08 Signals & Interpretation"
             }
+          },
+          {
+            "id": "fd67467df532bdb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Signals/2026-05-11 Signals & Interpretation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-11 Signals & Interpretation"
+            }
+          },
+          {
+            "id": "0b971c15510b58c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Signals/2026-05-12 Signals & Interpretation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-12 Signals & Interpretation"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,14 +226,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "23310db73816c2d8",
+  "active": "0b971c15510b58c7",
   "lastOpenFiles": [
-    "Template.md",
-    "Daily Signals/2026-05-07 Signals & Interpretation.md",
+    "Daily Signals/2026-05-11 Signals & Interpretation.md",
+    "Daily Signals/2026-05-12 Signals & Interpretation.md",
     "Daily Signals/2026-05-08 Signals & Interpretation.md",
-    "Issue Interpretation/2026-05-02 (DCM) US 30Y yield 5%.md",
-    "Issue Interpretation/2026-04-29 FOMC meeting.md",
+    "Template.md",
     "Issue Interpretation/2026-04-27 (RealEstate) Lock-in Effect.md",
+    "Issue Interpretation/2026-05-02 (DCM) US 30Y yield 5%.md",
+    "Daily Signals/2026-05-07 Signals & Interpretation.md",
+    "Issue Interpretation/2026-04-29 FOMC meeting.md",
     "Daily Signals/2026-04-30 Indexes.md",
     "Daily Signals/2026-05-01 Indexes.md",
     "Issue Interpretation",
