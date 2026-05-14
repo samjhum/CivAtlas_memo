@@ -10,16 +10,17 @@ date: "2026-05-13"
 
 ## I. Macro Signals
 
-| Index(Kor)   | Index(Eng)                | Reporting Period |             Estimated |                Actual |     Prior | Implication          |
-| ------------ | ------------------------- | ---------------: | --------------------: | --------------------: | --------: | -------------------- |
-| 생산자물가지수      | PPI                       |        Apr. 2026 | +0.4% MoM / +3.5% YoY | +0.5% MoM / +3.7% YoY |   +3%대 중반 | 에너지·운송비 중심 생산자물가 재상승 |
-| 근원 PPI       | Core PPI                  |        Apr. 2026 |             +0.3% MoM |             +0.4% MoM | +0.3% MoM | 서비스·운송 인플레 압력 지속     |
-| 원유재고         | Crude Oil Inventories     |    Week of May 8 |              -150만 배럴 |              -420만 배럴 |   +90만 배럴 | 공급 감소로 Oil 가격 상승 압력  |
-| MBA 모기지 신청지수 | MBA Mortgage Applications |    Week of May 8 |                     - |                 -2.8% |     +1.2% | 금리 상승으로 주택 수요 둔화     |
+| Index(Kor)   | Index(Eng)                | Reporting Period |             Estimated |                Actual |     Prior | Implication                                |
+| ------------ | ------------------------- | ---------------: | --------------------: | --------------------: | --------: | ------------------------------------------ |
+| 생산자물가지수      | PPI                       |        Apr. 2026 | +0.5% MoM / +4.9% YoY | +1.4% MoM / +6.0% YoY |  +4.0 YoY | 에너지·운송비 중심 생산자물가 재상승                       |
+| 근원 PPI       | Core PPI                  |        Apr. 2026 |             +0.5% MoM | +1.0% MoM / +5.2% YoY | +0.1% MoM | 서비스·운송 인플레 압력 지속                           |
+| 원유재고         | Crude Oil Inventories     |    Week of May 8 |                 -2.0M |               -4.306M |   -2.313M | 예상보다 큰 재고 감소 → Oil supply tightening 우려 확대 |
+| MBA 모기지 신청지수 | MBA Mortgage Applications |    Week of May 8 |                     - |                 +1.7% |     -4.4% | 높은 금리에도 Purchase demand 일부 회복              |
 
 ### Summary
 - CPI 이후 발표된 PPI 역시 예상보다 높게 나오며 인플레이션 재가속 우려 지속
-- Oil 공급 감소와 중동 리스크로 Commodity 가격 상승
+- 이란/호르무즈 이슈로 Energy inflation persistence signal
+- Mortgage rate이 6.4%까지 올랐음에도 Purchase application 회복되면서 수요 일부 회복 신호
 - 장기금리 상승 압력 속에서 AI·반도체 중심으로 selective risk-on 유지
 - 시장은 Fed의 Higher-for-Longer 가능성을 다시 반영
 
