@@ -9,12 +9,12 @@ date: "2026-05-12"
 # 2026-05-12 Signals & Interpretation
 
 ## Macro Signals
-|Index(Kor)|Index(Eng)|Reporting Period|Estimated|Actual|Prior|Implication|
-|---|---|--:|--:|--:|--:|---|
-|소비자물가지수|CPI|Apr. 2026|+0.6% MoM / +3.7~3.8% YoY|+0.6% MoM / +3.8% YoY|+3%대 중반|에너지발 물가 재가속, Fed 인하 기대 후퇴|
-|근원 CPI|Core CPI|Apr. 2026|+0.3~0.4% MoM|+0.4% MoM / +2.8% YoY|+2%대 후반|서비스·임대료 압력 잔존|
-|10Y Treasury|미 국채 10년|5/12|-|약 4.44%|4.39% 부근|금리 상승, 성장주 밸류에이션 부담|
-|Mortgage 30Y|30년 모기지|5/12|-|6.23~6.65%|전일 대비 상승|주택 affordability 재악화|
+| Index(Kor)   | Index(Eng) | Reporting Period |                 Estimated |                Actual |    Prior | Implication               |
+| ------------ | ---------- | ---------------: | ------------------------: | --------------------: | -------: | ------------------------- |
+| 소비자물가지수      | CPI        |        Apr. 2026 | +0.6% MoM / +3.7~3.8% YoY | +0.6% MoM / +3.8% YoY |  +3%대 중반 | 에너지발 물가 재가속, Fed 인하 기대 후퇴 |
+| 근원 CPI       | Core CPI   |        Apr. 2026 |             +0.3~0.4% MoM | +0.4% MoM / +2.8% YoY |  +2%대 후반 | 서비스·임대료 압력 잔존             |
+| 10Y Treasury | 미 국채 10년   |             5/12 |                         - |               약 4.44% | 4.39% 부근 | 금리 상승, 성장주 밸류에이션 부담       |
+| Mortgage 30Y | 30년 모기지    |             5/12 |                         - |            6.23~6.65% | 전일 대비 상승 | 주택 affordability 재악화      |
 
 ### Summary
 - 에너지 가격과 중동 지정학 리스크로 CPI가 예상치보다 높게 발표됨에 따라 금리 인하 가능성 하락
