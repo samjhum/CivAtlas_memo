@@ -1,12 +1,12 @@
 ---  
-title: "2026-05-19 Signals & Interpretation"  
+title: "2026-05-19(火) Signals & Interpretation"  
 tags:  
 - DCM
 - US 30Y
 - 
 date: "2026-05-19"  
 ---
-# 2026-05-19 Signals & Interpretation
+# 2026-05-19(火) Signals & Interpretation
 
 ## I. Macro Signals
 |Indicator|Actual|Prior|Signal|해석|
