@@ -9,13 +9,13 @@ date: "2026-05-14"
 # 2026-05-14 Signals & Interpretation
 
 ## I. Macro Signals
-|Index(Kor)|Index(Eng)|Reporting Period|Estimated|Actual|Prior|Implication|
-|---|---|--:|--:|--:|--:|---|
-|소매판매|Retail Sales|Apr. 2026|+0.5% MoM|+0.5% MoM|+1.6% MoM|소비는 견조하나, 일부는 gasoline price 상승 효과|
-|근원 소매판매|Core Retail Sales / Control Group|Apr. 2026|-|+0.5% MoM|+0.8% MoM|GDP 소비 항목은 아직 양호|
-|신규 실업수당 청구건수|Initial Jobless Claims|Week ended May 9|20.5만|21.1만|19.9만|고용은 둔화 조짐이나 여전히 안정적|
-|연속 실업수당 청구건수|Continuing Claims|Week ended May 2|-|178.2만|175.8만|재취업 속도는 완만히 둔화|
-|수입물가|Import Prices|Apr. 2026|-|+1.9% MoM / +4.2% YoY|+0.9% MoM|에너지·수입 인플레 압력 확대|
+| Index(Kor)   | Index(Eng)                        | Reporting Period | Estimated |                Actual |     Prior | Implication                        |
+| ------------ | --------------------------------- | ---------------: | --------: | --------------------: | --------: | ---------------------------------- |
+| 소매판매         | Retail Sales                      |        Apr. 2026 | +0.5% MoM |             +0.5% MoM | +1.6% MoM | 소비는 견조하나, 일부는 gasoline price 상승 효과 |
+| 근원 소매판매      | Core Retail Sales / Control Group |        Apr. 2026 |         - |             +0.5% MoM | +0.8% MoM | GDP 소비 항목은 아직 양호                   |
+| 신규 실업수당 청구건수 | Initial Jobless Claims            | Week ended May 9 |     20.5만 |                 21.1만 |     19.9만 | 고용은 둔화 조짐이나 여전히 안정적                |
+| 연속 실업수당 청구건수 | Continuing Claims                 | Week ended May 2 |         - |                178.2만 |    175.8만 | 재취업 속도는 완만히 둔화                     |
+| 수입물가         | Import Prices                     |        Apr. 2026 |         - | +1.9% MoM / +4.2% YoY | +0.9% MoM | 에너지·수입 인플레 압력 확대                   |
 
 ### Summary
 - 소매판매는 예상에 부합했지만, gasoline price 상승과 tax refund 효과가 일부 반영된 nominal growth.
